@@ -1,2 +1,0 @@
-# Project
-My First Program
